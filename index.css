@@ -1,0 +1,15 @@
+.body{
+ 
+height: 100vh;
+width: 100%;
+}
+.headerimage{
+  position:absolute;
+  z-index: -1;
+  height: 100vh;
+  width: 100%;
+}
+.cards{
+  text-align: center;
+  background-color: teal;
+}
